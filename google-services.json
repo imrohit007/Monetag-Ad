@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "288016856199",
+    "firebase_url": "https://newp-f341b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "newp-f341b",
+    "storage_bucket": "newp-f341b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288016856199:android:cab9fb9e08303d2803b422",
+        "android_client_info": {
+          "package_name": "com.itachi7.testad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRm5DDcU47pG6KpUADtOrE9X7KtYLBBhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
